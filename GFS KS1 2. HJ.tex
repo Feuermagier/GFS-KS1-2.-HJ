@@ -1,0 +1,69 @@
+\documentclass{beamer}
+%\setbeamertemplate{navigation symbols}{}  %remove navigation symbols
+%Deutsch
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc}
+%Mathe
+\usepackage{amsmath}
+%Einheiten
+\usepackage{siunitx}
+%Baumstrukturen
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usepackage{textcomp}   % allows \textrightarrow
+%Bildquellen
+\usepackage{varwidth}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\author{Florian Seligmann}
+\title{Die Baupolitik des Augustus}
+\date{\textbf{11.6.2018}}
+
+\tikzset{
+  invisible/.style={opacity=0},
+  visible on/.style={alt={#1{}{invisible}}},
+  alt/.code args={<#1>#2#3}{%
+    \alt<#1>{\pgfkeysalso{#2}}{\pgfkeysalso{#3}}
+  }
+}
+
+%Item mit Pfeil
+\newcommand{\aitem}{%
+\item[$\rightarrow$]
+}
+
+%Bildquellen
+\newcommand*{\quelle}{%
+  \tiny Quelle:
+}
+
+%Bilder
+\newcommand{\bild}[3]{%
+	\begin{figure}
+	\centering
+  \begin{varwidth}{\linewidth}
+    \raggedleft
+    \includegraphics[scale=#2]{#1}\\
+    \quelle\url{#3}
+  \end{varwidth}
+\end{figure}
+}
+
+%Einheiten
+\sisetup{
+  locale = DE ,
+  per-mode = symbol
+}
+
+%=====================================================================================================================================
+\begin{document}
+
+\frame{\titlepage}
+\frame{\frametitle{Gliederung}
+\tableofcontents
+} %End of frame
+%-------------------------------------------------------------------------------------------------------------------------------------
+
+
+\end{document}

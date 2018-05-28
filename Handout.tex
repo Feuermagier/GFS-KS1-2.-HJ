@@ -1,0 +1,88 @@
+\documentclass[a4paper]{article}
+
+\usepackage{ngerman}
+\usepackage[ngerman]{babel}
+\usepackage[ansinew]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{fancyhdr}
+%Baumstrukturen
+\usepackage{tikz}
+\usepackage{tikz-qtree}
+\usepackage{textcomp}   % allows \textrightarrow
+%Mathe
+\usepackage{amsmath}
+
+\tikzset{
+  invisible/.style={opacity=0},
+  visible on/.style={alt={#1{}{invisible}}},
+  alt/.code args={<#1>#2#3}{%
+    \alt<#1>{\pgfkeysalso{#2}}{\pgfkeysalso{#3}}
+  }
+}
+
+\title{Die Baupolitik des Augustus}
+\author{Florian Seligmann}
+\date{Montag, 11. Juni 2018}
+
+\pagestyle{fancy}
+\lhead{GFS von Florian Seligmann}
+\rhead{11. Juni 2018}
+\chead{}
+
+%----------------------------------------------------------------------------------------------------------
+\begin{document}
+
+\begin{center}
+\vspace*{\stretch{1.0}}
+   \begin{center}
+      \Large\textbf{Modelle in der Chemie}\\
+      \large\textit{Florian Seligmann}
+   \end{center}
+\vspace*{\stretch{2.0}}
+
+\section{Eigenschaften}
+
+\begin{itemize}
+	\item Abstraktion: Weglassen von Unwichtigem
+	\item Dimension: Vergrößerung / Verkleinerung
+\end{itemize}
+
+\section{Arten}
+
+\begin{itemize}
+	\item Materiell
+	\begin{itemize}
+		\item Statisch (Kugel-Stab-Modelle, \dots)
+		\item Simulation
+	\end{itemize}
+	\item{Ideell}
+	\begin{itemize}
+		\item Symbolisch (Reaktionsgleichungen, \dots)
+		\item Mathematisch
+	\end{itemize}	
+\end{itemize}
+
+\section{Anforderungen \& Ziele}
+
+\begin{itemize}
+	\item Abbildung der Wirklichkeit
+	\item Anschaulichkeit, Einfachheit
+	\item Zeit, Preis
+	\item Sicherheit, Beeinflussbarkeit
+\end{itemize}
+
+\section{Grenzen}
+\begin{itemize}
+	\item Jedes Modell hat Grenzen
+	\item Modell $\neq$ Wirklichkeit
+\end{itemize}
+
+\section{Warum sind Modelle so wichtig?}
+\begin{itemize}
+	\item Chemie arbeitet mit sehr kleinen Dingen $\rightarrow$ Ohne Modelle nicht handhabbar
+	\item Naturwissenschaften können nichts beweisen $\rightarrow$ Alles nur Modelle
+\end{itemize}
+
+
+\end{center}
+\end{document}
