@@ -2,4 +2,5 @@
 \beamer@sectionintoc {1}{Entwicklung der Baupolitik}{4}{0}{1}
 \beamer@subsectionintoc {1}{1}{Zeit der B\IeC {\"u}rgerkriege}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Zeit des Prinzipats}{13}{0}{1}
-\beamer@sectionintoc {2}{Ara Pacis}{20}{0}{2}
+\beamer@sectionintoc {2}{Ara Pacis Augustae}{28}{0}{2}
+\beamer@sectionintoc {3}{Auswirkungen der Baupolitik}{43}{0}{3}
