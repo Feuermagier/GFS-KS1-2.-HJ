@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2017.11.17)  3 JUN 2018 15:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.20)  6 JUN 2018 21:11
 entering extended mode
 **"./GFS KS1 2. HJ.tex"
 ("GFS KS1 2. HJ.tex"
 LaTeX2e <2017-04-15>
-Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamer.cls"
-Document Class: beamer 2017/11/10 v3.44 A class for typesetting presentations
+Document Class: beamer 2017/08/22 v3.43 A class for typesetting presentations
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
 Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
@@ -61,12 +61,11 @@ Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 \beamer@animationtempb=\count95
 \beamer@xpos=\count96
 \beamer@ypos=\count97
-\beamer@ypos@offset=\count98
-\beamer@showpartnumber=\count99
-\beamer@currentsubsection=\count100
-\beamer@coveringdepth=\count101
-\beamer@sectionadjust=\count102
-\beamer@tocsectionnumber=\count103
+\beamer@showpartnumber=\count98
+\beamer@currentsubsection=\count99
+\beamer@coveringdepth=\count100
+\beamer@sectionadjust=\count101
+\beamer@tocsectionnumber=\count102
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseoptions.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
@@ -86,9 +85,9 @@ Package ifvtex Info: VTeX not detected.
 ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count104
-\Gm@cntv=\count105
-\c@Gm@tempcnt=\count106
+\Gm@cnth=\count103
+\Gm@cntv=\count104
+\c@Gm@tempcnt=\count105
 \Gm@bindingoffset=\dimen118
 \Gm@wd@mp=\dimen119
 \Gm@odd@mp=\dimen120
@@ -104,10 +103,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
  ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
@@ -116,7 +115,15 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
-File: pdftex.def 2017/06/24 v1.0g Graphics/color driver for pdftex
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count106
 ))
 \Gin@req@height=\dimen126
 \Gin@req@width=\dimen127
@@ -311,13 +318,7 @@ Package: xxcolor 2003/10/24 ver 0.1
 )
 ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
 
@@ -535,7 +536,7 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetheorems.sty"
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2017/09/02 v2.17a AMS math features
+Package: amsmath 2016/11/05 v2.16a AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
@@ -616,10 +617,8 @@ Package: amsthm 2015/03/04 v2.20.2
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\color\beamercolorthemewhale.sty"))
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\themes\color\beamercolorthemedove.sty")
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
-Package: babel 2017/11/03 3.15 The Babel package
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
-)
+Package: babel 2017/05/19 3.10 The Babel package
+
 *************************************
 * Local config file bblopts.cfg used
 *
@@ -633,13 +632,10 @@ Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
 Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
 
 ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
-File: babel.def 2017/11/03 3.15 Babel common definitions
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\switch.def"
-File: switch.def 2017/11/03 3.15 Babel switching mechanism
-)
+File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count154
 \U@D=\dimen190
-LaTeX Info: Redefining \textlatin on input line 1741.
+LaTeX Info: Redefining \textlatin on input line 1648.
 )
 Package babel Info: Making " an active character on input line 125.
 ))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
@@ -652,8 +648,7 @@ Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -893,7 +888,8 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -933,8 +929,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 )
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -959,10 +954,9 @@ Now handling font encoding PD1 ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.s
-ty"
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty" ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
 Package: expl3 2017/09/18 L3 programming layer (loader) 
-
 ("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
 Package: expl3 2017/09/18 L3 programming layer (code)
 \c_max_int=\count155
@@ -1556,26 +1550,26 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 ) ("GFS KS1 2. HJ.aux")
 \openout1 = `"GFS KS1 2. HJ.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 72.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 72.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 72.
+LaTeX Font Info:    ... okay on input line 73.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1632,11 +1626,11 @@ Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 )
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box84
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 73.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1646,62 +1640,62 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count346
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
  ("GFS KS1 2. HJ.out") ("GFS KS1 2. HJ.out")
 \@outlinefile=\write5
 \openout5 = `"GFS KS1 2. HJ.out"'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 72.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 73.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 72.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 72.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 72.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 72.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 72.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 72.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 72.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 72.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 73.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 73.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 72.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 73.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 72.
+(Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 73.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 72.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 73.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basic-dictionary\translator-basic-dictionary-
 English.dict"
@@ -1730,22 +1724,22 @@ Dictionary: translator-theorem-dictionary, Language: English
 File: siunitx-abbreviations.cfg 2017/08/02 v2.7j siunitx: Abbreviated units
 ) ("GFS KS1 2. HJ.nav")
 \c__siunitx_mathsf_int=\count347
-LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+LaTeX Font Info:    Try loading font information for U+msa on input line 73.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 72.
+LaTeX Font Info:    Try loading font information for U+msb on input line 73.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 72.
+LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input line 73.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\sansmathaccent\ot1mathkerncmss.fd"
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
 \c__siunitx_mathtt_int=\count348
- [1{C:/Users/flose/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+ [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 ] ("GFS KS1 2. HJ.toc") [2
 
@@ -1758,19 +1752,19 @@ File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/mat
 ] [6
 
 ]
-<images/mausoleum_beschnitten.png, id=235, 382.42876pt x 223.33438pt>
+<images/mausoleum_beschnitten.png, id=248, 382.42876pt x 223.33438pt>
 File: images/mausoleum_beschnitten.png Graphic file (type png)
-<use images/mausoleum_beschnitten.png>
-Package pdftex.def Info: images/mausoleum_beschnitten.png  used on input line 116. on input line 116.
-Package pdftex.def Info: Requested size: 191.2139pt x 111.66692pt on input line 116.
+ <use images/mausoleum_beschnitten.png>
+Package pdftex.def Info: images/mausoleum_beschnitten.png used on input line 117.
+(pdftex.def)             Requested size: 191.2139pt x 111.66692pt.
  [7
 
- <./images/mausoleum_beschnitten.png>]
-<images/mausoleum_oben.png, id=272, 185.493pt x 105.2733pt>
+ <./images/mausoleum_beschnitten.png>] <images/mausoleum_oben.png, id=286, 185.493pt x 105.2733pt>
 File: images/mausoleum_oben.png Graphic file (type png)
+
 <use images/mausoleum_oben.png>
-Package pdftex.def Info: images/mausoleum_oben.png  used on input line 121. on input line 121.
-Package pdftex.def Info: Requested size: 185.49254pt x 105.27304pt on input line 121.
+Package pdftex.def Info: images/mausoleum_oben.png used on input line 122.
+(pdftex.def)             Requested size: 185.49254pt x 105.27304pt.
  [8
 
  <./images/mausoleum_oben.png>] [9
@@ -1793,7 +1787,8 @@ Package pdftex.def Info: Requested size: 185.49254pt x 105.27304pt on input line
 
 ] [18
 
-] [19
+]
+[19
 
 ] [20
 
@@ -1811,19 +1806,18 @@ Package pdftex.def Info: Requested size: 185.49254pt x 105.27304pt on input line
 
 ] [27
 
-]
-[28
+] [28
 
 ] [29
 
-]
-<images/ap_totale.png, id=954, 803.0pt x 579.16376pt>
+] <images/ap_totale.png, id=990, 803.0pt x 579.16376pt>
 File: images/ap_totale.png Graphic file (type png)
-<use images/ap_totale.png>
-Package pdftex.def Info: images/ap_totale.png  used on input line 254. on input line 254.
-Package pdftex.def Info: Requested size: 281.05421pt x 202.71034pt on input line 254.
 
-Overfull \vbox (30.74286pt too high) detected at line 254
+<use images/ap_totale.png>
+Package pdftex.def Info: images/ap_totale.png used on input line 255.
+(pdftex.def)             Requested size: 281.05421pt x 202.71034pt.
+
+Overfull \vbox (37.24283pt too high) detected at line 255
  []
 
 [30
@@ -1845,28 +1839,45 @@ Overfull \vbox (30.74286pt too high) detected at line 254
 ] [38
 
 ]
-<images/arapacis_plan.png, id=1219, 546.04pt x 369.38pt>
+<images/arapacis_plan.png, id=1264, 546.04pt x 369.38pt>
 File: images/arapacis_plan.png Graphic file (type png)
-<use images/arapacis_plan.png>
-Package pdftex.def Info: images/arapacis_plan.png  used on input line 304. on input line 304.
-Package pdftex.def Info: Requested size: 278.04346pt x 188.09148pt on input line 304.
+ <use images/arapacis_plan.png>
+Package pdftex.def Info: images/arapacis_plan.png used on input line 305.
+(pdftex.def)             Requested size: 270.36145pt x 182.89148pt.
  [39
 
- <./images/arapacis_plan.png>]
-<images/horologium.png, id=1251, 475.7775pt x 642.4pt>
+ <./images/arapacis_plan.png>] <images/horologium.png, id=1297, 475.7775pt x 642.4pt>
 File: images/horologium.png Graphic file (type png)
-<use images/horologium.png>
-Package pdftex.def Info: images/horologium.png  used on input line 311. on input line 311.
-Package pdftex.def Info: Requested size: 139.30048pt x 188.09148pt on input line 311.
+ <use images/horologium.png>
+Package pdftex.def Info: images/horologium.png used on input line 313.
+(pdftex.def)             Requested size: 135.45279pt x 182.89148pt.
  [40
 
- <./images/horologium.png>] [41
+ <./images/horologium.png>]
+[41
 
 ] [42
 
 ] [43
 
 ] [44
+
+] [45
+
+] [46
+
+] [47
+
+]
+Overfull \hbox (16.04195pt too wide) in paragraph at lines 371--371
+\OT1/cmtt/m/n/10.95 kaiser-[]august-[]meister-[]der-[]politischen-[]kommunikation . 
+ []
+
+[48
+
+] [49
+
+] [50
 
 ]
 \tf@nav=\write6
@@ -1878,19 +1889,19 @@ Package pdftex.def Info: Requested size: 139.30048pt x 188.09148pt on input line
 \tf@snm=\write8
 \openout8 = `"GFS KS1 2. HJ.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 332.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 332.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
  ("GFS KS1 2. HJ.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 332.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 332.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
 Package rerunfilecheck Info: File `"GFS KS1 2. HJ".out' has not changed.
-(rerunfilecheck)             Checksum: F1C5BC8DDFB6F054E11244F297E7BE5C;323.
+(rerunfilecheck)             Checksum: 73C1142FE649B659ACFA36B0318FEA1A;364.
  ) 
 Here is how much of TeX's memory you used:
- 31667 strings out of 493312
- 645199 string characters out of 3138898
- 679500 words of memory out of 3000000
- 34559 multiletter control sequences out of 15000+200000
+ 31703 strings out of 493323
+ 645038 string characters out of 3139065
+ 683078 words of memory out of 3000000
+ 34577 multiletter control sequences out of 15000+200000
  539684 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,59p,10385b,727s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1898,10 +1909,11 @@ Here is how much of TeX's memory you used:
 /amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><
 C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "GFS KS1 2. HJ.pdf" (44 pages, 3255825 bytes).
+sfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "GFS KS1 2. HJ.pdf" (50 pages, 3327331 bytes).
 PDF statistics:
- 1445 PDF objects out of 1728 (max. 8388607)
- 94 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1697 PDF objects out of 1728 (max. 8388607)
+ 107 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
