@@ -36,31 +36,32 @@
 \item[$\rightarrow$]
 }
 
+%Pfeil
+\newcommand{\pfeil}{%
+	$\rightarrow$
+}
+
 %Bildquellen
 \newcommand*{\quelle}{%
   \tiny Quelle:
 }
 
 %Bilder
-\newcommand{\bild}[3]{%
+\newcommand{\hbild}[3][1.0]{%
 	\begin{figure}
 	\centering
-  \begin{varwidth}{\linewidth}
-    \raggedleft
-    \includegraphics[scale=#2, width=\textwidth]{#1}\\
-    \quelle{\url{#3}}
-  \end{varwidth}
-\end{figure}
+		\begin{varwidth}{\linewidth}
+			\raggedleft
+			\includegraphics[scale=#1, width=\textwidth]{#2}\\
+			\quelle{\url{#3}}
+		\end{varwidth}
+	\end{figure}
 }
-\newcommand{\fbild}[3]{%
+\newcommand{\vbild}[2]{
 	\begin{figure}
-	\centering
-  \begin{varwidth}{\linewidth}
-    \raggedleft
-    \includegraphics[scale=#2]{#1}\\
-    \quelle{\url{#3}}
-  \end{varwidth}
-\end{figure}
+    \includegraphics[height=0.6\textheight]{#1}\\
+		\quelle{\url{#2}}
+	\end{figure}
 }
 
 %Einheiten
@@ -108,17 +109,14 @@
 }%eof
 
 \frame{\frametitle{Beispiele zur Zeit der Bürgerkriege}
-	%Mausoleum Augustus auf Marsfeld
-	\begin{center}
-		\bild{images/mausoleum_beschnitten.png}{0.5}{http://www.roma-antiqua.de/abbildungen/antikes_rom/marsfeld/2000_351.jpg}
-		%\includegraphics[0.5]{images/mausoleum_beschnitten.png}
-	\end{center}
-	
-}%eof
-
-\frame{\frametitle{Beispiele zur Zeit der Bürgerkriege}
-	%Mausoleum Augustus auf Marsfeld
-	\bild{images/mausoleum_oben.png}{1.0}{https://www.realmofhistory.com/wp-content/uploads/2017/05/restoration-mausoleum-of-augustus-rome_3-770x437.jpg}
+		\begin{columns}[T]
+		\begin{column}{0.5\textwidth}
+			\hbild{images/mausoleum_beschnitten.png}{http://www.roma-antiqua.de/abbildungen/antikes_rom/marsfeld/2000_351.jpg}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\hbild{images/mausoleum_oben.png}{https://www.realmofhistory.com/wp-content/uploads/2017/05/restoration-mausoleum-of-augustus-rome_3-770x437.jpg}
+		\end{column}
+	\end{columns}
 }%eof
 
 \frame{\frametitle{Bürgerkriege}
@@ -251,7 +249,7 @@ Konsulatsjahr des Tiberius Nero und Publius Quintilius) zurückkehrte, stimmte d
 }%eof
 
 \frame{\frametitle{Ara Pacis Augustae}
-	\bild{images/ap_totale.png}{0.35}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0081.jpg}
+	\vbild{images/ap_totale.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0081.jpg}
 }%eof
 
 
@@ -280,6 +278,18 @@ Konsulatsjahr des Tiberius Nero und Publius Quintilius) zurückkehrte, stimmte d
 	\end{itemize}
 }%eof
 
+
+\frame{\frametitle{Museo dell'Ara Pacis}
+		\begin{columns}[T]
+		\begin{column}{0.5\textwidth}
+			\vbild{images/museum.png}{https://i0.wp.com/naehrlich.de/daserberoms/wp-content/uploads/2017/04/PSN00175.jpg?w=616&h=821&ssl=1}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\vbild{images/res_gestae.png}{https://i0.wp.com/naehrlich.de/daserberoms/wp-content/uploads/2017/04/PSN00182.jpg?w=616&h=822&ssl=1}
+		\end{column}
+	\end{columns}
+}%eof
+
 \frame{\frametitle{Aufgaben}
 	\begin{itemize}
 		\item Rückblick auf Griechenland \& die Republik
@@ -292,32 +302,154 @@ Konsulatsjahr des Tiberius Nero und Publius Quintilius) zurückkehrte, stimmte d
 		\item Reliefs auf Außen- und Innenseite
 		\item Wahrscheinlich griechische Künstler %wg. Detailgenauigkeit -> Sittenverfall durch griechische Kunst 
 		\item Interpretation sehr umstritten
-		\item Einteilung %Oben Szenen, Handlungen; unten Natur, Wildheit, Roheit /Blütezeit
 	\end{itemize}
 }%eof
 
-\frame{\frametitle{Gestaltung}
-	%\bild{images/arapacis_plan.png}{1.0}{http://www.lingualatina.de/bilder/arapacis.jpg}
-	\begin{figure}
-		\includegraphics[height=0.8\textheight]{images/arapacis_plan.png}\\
-		\quelle{\url{http://www.lingualatina.de/bilder/arapacis.jpg}}
-	\end{figure}
+\frame{\frametitle{Innere Gestaltung - Wand}
+	\vbild{images/innen_wand.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0106.jpg}
+}
+
+\frame{\frametitle{Äußere Gestaltung - Untere Hälfte}
+	\vbild{images/unten.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0084.jpg} %Blumen -> Wiederaufblühen des Staats -> 50+ identifizierte Arten, wahrscheinlich bemalt
 }%eof
+
+\frame{\frametitle{Äußere Gestaltung}	%Oben Szenen, Handlungen; unten Natur, Wildheit, Roheit /Blütezeit
+	\vbild{images/arapacis_plan.png}{http://www.lingualatina.de/bilder/arapacis.jpg}
+}%eof
+
+\frame{\frametitle{Westseite - Nördliches Relief} %Lupercal
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_1.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/west_nord.png}{https://arachne.uni-koeln.de/arachne/images/image.php?key=403393&width=500&height=500&rotation=0}
+		\end{column}
+	\end{columns}
+}%eof
+
+
+\frame{\frametitle{Westseite - Südliches Relief} %Aeneas opfert
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_2.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/west_sued.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0083.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Ostseite - Nördliches Relief} %Roma
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_3.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/ost_nord.png}{http://web.mit.edu/course/21/21h.402/www/arapacis/images/roma_scene.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Ostseite - Nördliches Relief} %Tellus
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_4.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/ost_sued.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0090.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Südseite} %Prozession, vorne wahrsch. Liktoren, dann Augustus, dann Auguren + Priester, dann Familie
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_5.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/sued_alles.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0101.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Südseite} %Augustus ganz links, halb zerstört
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_5.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/sued_augustus.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0104.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Südseite} %Agrippa, mit bedecktem Kopf + Kinder wg. Fruchtbarkeit (mglw. Gaius); rechts Livia (Augustus Frau)
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_5.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/sued_agrippa.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0103.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Nordseite} %Priester, weitere Mitglieder der Kaiserfamilie
+	\begin{columns}[T]
+		\begin{column}{0.3\textwidth}
+			\begin{figure}%
+				\includegraphics[width=\columnwidth]{images/arapacis_plan_6.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.7\textwidth}
+			\vbild{images/nord.png}{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/0085.jpg}
+		\end{column}
+	\end{columns}
+}%eof
+
+\frame{\frametitle{Augustus und Aeneas} 
+	\begin{columns}[T]
+		\begin{column}{0.5\textwidth}
+			\begin{figure}
+				\includegraphics[width=\columnwidth]{images/west_sued.png}%
+			\end{figure}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\begin{figure}
+				\includegraphics[width=\columnwidth]{images/sued_augustus.png}%
+			\end{figure}
+		\end{column}
+	\end{columns}
+}%eof
+
 
 %--------------------------------------------horologium-----------------
 \frame{\frametitle{Horologium solarium Augusti}
-	\begin{figure}
-		\includegraphics[height=0.8\textheight]{images/horologium.png}\\
-		\quelle{\url{http://cdn.ipernity.com/134/84/75/24228475.ef26a17d.640.jpg?r2}}
-	\end{figure}
+	\vbild{images/horologium.png}{http://cdn.ipernity.com/134/84/75/24228475.ef26a17d.640.jpg?r2}
 }%eof
 \frame{\frametitle{Horologium solarium Augusti}
 	\begin{itemize}
-		\item Größte Sonnenuhr Roms
+		\item 22 Meter hoch
 		\item Beute aus Ägypten $\rightarrow$ Sieg über Kleopatra
 		\pause
-		\item Schatten am 23. September in Eingang der Ara pacis % Augustus GB -> 'Zeichen der Götter' -> Apollo (Gott der Sonne)
-		\item 
+		\item Schatten am 23. September im Eingang der Ara pacis % Augustus GB -> 'Zeichen der Götter' -> Apollo (Gott der Sonne)
+		\pause
+		\aitem Kaiser zum Frieden geboren
 	\end{itemize}
 }%eof
 
@@ -365,24 +497,31 @@ Konsulatsjahr des Tiberius Nero und Publius Quintilius) zurückkehrte, stimmte d
 \frame{\frametitle{Quellen}
 	Internetquellen:
 	\begin{itemize}
-		\item Hennies, Matthias: \textit{Kaiser August - Meister der politischen Kommunikation}. In: Deutschlandfunk, 14.08.2014, \url{http://www.deutschlandfunk.de/kaiser-august-meister-der-politischen-kommunikation.1148.de.html?dram:article_id=294379}. Letzter Abruf am 06.08.2018
-		\item Dr. Keller, Sven: \textit{Ara Pacis - Altar des augusteischen Friedens}. In: Roma Antiqua, 04.06.2008, \url{http://www.roma-antiqua.de/antikes_rom/marsfeld/ara_pacis}. Letzter Aufruf am 06.08.2018
+		\item Dr. Keller, Sven: \textit{Ara Pacis - Altar des augusteischen Friedens}. In: Roma Antiqua, 04.06.2008, \url{http://www.roma-antiqua.de/antikes_rom/marsfeld/ara_pacis}. Letzter Aufruf am 08.06.2018
+		\item Dr. Keller, Sven: \textit{Horologium des Augustus}. In: Roma Antiqua, 04.06.2008, \url{http://www.roma-antiqua.de/antikes_rom/marsfeld/horologium}. Letzter Aufruf am 07.06.2018
 	\end{itemize}
 }%eof
 
 \frame{\frametitle{Quellen}
 	Internetquellen:
 	\begin{itemize}
-		\item Sullivan, Mary Ann: \textit{The Ara Pacis Augustae}. In: Bluffton University, 2006, \url{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/arapacis.html}. Letzter Aufruf am 06.08.2018
-		\item Dr. Becker, Jeffrey: \textit{Ara Pacis}. In: Khan Academy, \url{https://www.khanacademy.org/humanities/ancient-art-civilizations/roman/early-empire/a/ara-pacis}. Letzter Aufruf am 08.06.2018
+		\item Sullivan, Mary Ann: \textit{The Ara Pacis Augustae}. In: Bluffton University, 2006, \url{https://www.bluffton.edu/homepages/facstaff/sullivanm/italy/rome/arapacis/arapacis.html}. Letzter Aufruf am 06.06.2018
+		\item Dr. Becker, Jeffrey: \textit{Ara Pacis}. In: Khan Academy, \url{https://www.khanacademy.org/humanities/ancient-art-civilizations/roman/early-empire/a/ara-pacis}. Letzter Aufruf am 06.06.2018
 	\end{itemize}
 }%eof
 
 \frame{\frametitle{Quellen}
 	Internetquellen:
 	\begin{itemize}
-		\item Naehrlich, Stefan: \textit{Ara Pacis Augustae: Altar des Friedens des Augustus}. In: Stefan Nährlich: Das Erbe Roms, 21.05.2017, \url{https://naehrlich.de/daserberoms/2017/05/21/ara-pacis-augustae/}. Letzter Aufruf am 08.06.2018
-		\item Weigand, Helena; \textit{Ein Rom aus Marmor}. In: Albertus Magnus Gymnasium Regensburg, 06.11.2012, \url{https://www.amg-regensburg.de/component/phocadownload/category/37-beispielsarbeiten?download=65:Seminarabeit_Weigand}. Letzter Aufruf am 06.08.2018
+		\item Naehrlich, Stefan: \textit{Ara Pacis Augustae: Altar des Friedens des Augustus}. In: Stefan Nährlich: Das Erbe Roms, 21.05.2017, \url{https://naehrlich.de/daserberoms/2017/05/21/ara-pacis-augustae/}. Letzter Aufruf am 06.06.2018
+		\item Weigand, Helena; \textit{Ein Rom aus Marmor}. In: Albertus Magnus Gymnasium Regensburg, 06.11.2012, \url{https://www.amg-regensburg.de/component/phocadownload/category/37-beispielsarbeiten?download=65:Seminarabeit_Weigand}. Letzter Aufruf am 06.06.2018
+	\end{itemize}
+}%eof
+
+\frame{\frametitle{Quellen}
+	Internetquellen:
+	\begin{itemize}
+		\item Hennies, Matthias: \textit{Kaiser August - Meister der politischen Kommunikation}. In: Deutschlandfunk, 14.08.2014, \url{http://www.deutschlandfunk.de/kaiser-august-meister-der-politischen-kommunikation.1148.de.html?dram:article_id=294379}. Letzter Abruf am 06.06.2018
 	\end{itemize}
 }%eof
 
