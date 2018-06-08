@@ -3,5 +3,5 @@
 \beamer@subsectionintoc {1}{1}{Zeit der B\IeC {\"u}rgerkriege}{4}{0}{1}
 \beamer@subsectionintoc {1}{2}{Zeit des Prinzipats}{12}{0}{1}
 \beamer@sectionintoc {2}{Ara Pacis Augustae}{27}{0}{2}
-\beamer@sectionintoc {3}{Auswirkungen der Baupolitik}{54}{0}{3}
-\beamer@sectionintoc {4}{Fazit}{56}{0}{4}
+\beamer@sectionintoc {3}{Auswirkungen der Baupolitik}{55}{0}{3}
+\beamer@sectionintoc {4}{Fazit}{57}{0}{4}
