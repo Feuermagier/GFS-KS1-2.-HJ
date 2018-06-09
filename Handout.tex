@@ -1,9 +1,11 @@
-\documentclass[a4paper]{article}
+\documentclass[11pt]{article}
 
+\usepackage[a4paper,left=3cm,right=3cm,top=2cm,bottom=2cm,bindingoffset=5mm]{geometry}
 \usepackage{ngerman}
 \usepackage[ngerman]{babel}
 \usepackage[ansinew]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage[scaled]{uarial}
 \usepackage{fancyhdr}
 %Baumstrukturen
 \usepackage{tikz}
@@ -12,15 +14,12 @@
 %Mathe
 \usepackage{amsmath}
 
-\tikzset{
-  invisible/.style={opacity=0},
-  visible on/.style={alt={#1{}{invisible}}},
-  alt/.code args={<#1>#2#3}{%
-    \alt<#1>{\pgfkeysalso{#2}}{\pgfkeysalso{#3}}
-  }
+%Item mit Pfeil
+\newcommand{\aitem}{%
+\item[$\rightarrow$]
 }
 
-\title{Die Baupolitik des Augustus}
+\title{Die augusteische Baupolitik}
 \author{Florian Seligmann}
 \date{Montag, 11. Juni 2018}
 
@@ -35,54 +34,51 @@
 \begin{center}
 \vspace*{\stretch{1.0}}
    \begin{center}
-      \Large\textbf{Modelle in der Chemie}\\
+      \Large\textbf{Die augusteische Baupolitik}\\
       \large\textit{Florian Seligmann}
    \end{center}
 \vspace*{\stretch{2.0}}
 
-\section{Eigenschaften}
+\small
 
+\section{Zeit der Bürgerkriege}
 \begin{itemize}
-	\item Abstraktion: Weglassen von Unwichtigem
-	\item Dimension: Vergrößerung / Verkleinerung
+	\item Betonung Roms im Gegensatz zu Marcus Antonius (z.B. Augustusmausoleum)
+	\item Caesarkult (z.B. Curia Iulia, Tempel des Divus Iulius)
+	\item Bezug zu Apollo
+	\aitem Repräsentative Bauten in Rom
 \end{itemize}
 
-\section{Arten}
-
+\section{Zeit des Prinzipats}
 \begin{itemize}
-	\item Materiell
-	\begin{itemize}
-		\item Statisch (Kugel-Stab-Modelle, \dots)
-		\item Simulation
-	\end{itemize}
-	\item{Ideell}
-	\begin{itemize}
-		\item Symbolisch (Reaktionsgleichungen, \dots)
-		\item Mathematisch
-	\end{itemize}	
+	\item Fertigstellung und Sanierung vieler Bauwerke und der Infrastruktur (Brandschutz, Wasserversorgung, \dots)
+	\item Bau und Erneuerung vieler Tempel
+	\aitem Dabei Verwendung von teurem Marmor zur Repräsentation des weltweiten Einfluss
+	\aitem Betonung der \glqq{}aetas aurea\grqq{}
+	\aitem Dadurch ausgelöster \glqq{}Wettbewerb\grqq{} unter der Elite $\rightarrow$ Goldenes Zeitalter wird sichtbar
+	\aitem Ziel: Darstellung als Friedensbringer (Schließung des Tempel des Ianus Quirinum, Bau der Ara Pacis, \dots)
 \end{itemize}
 
-\section{Anforderungen \& Ziele}
+\section{Ara Pacis Augustae}
 
 \begin{itemize}
-	\item Abbildung der Wirklichkeit
-	\item Anschaulichkeit, Einfachheit
-	\item Zeit, Preis
-	\item Sicherheit, Beeinflussbarkeit
+	\item Errichtet vom Senat wegen Augustus Rückkehr von Feldzügen in Spanien und Gallien
+	\item Errichtet auf dem Marsfeld neben Augustusmausoleum und Ara Pacis
+	\item Geweiht am Geburtstag seiner Frau Livia
+	\item Aufbau ähnlich einem templum minus $\rightarrow$ Aber aus massivem lunensichem Marmor (= Carrara-Marmor)
+	\item Heute als Rekonstruktion im Museo dell'Ara Pacis
 \end{itemize}
 
-\section{Grenzen}
+\subsection{Aufgaben}
 \begin{itemize}
-	\item Jedes Modell hat Grenzen
-	\item Modell $\neq$ Wirklichkeit
+	\item Rückblick auf Griechenland \& die Republik
+	\item Ausblick auf \glqq{}Goldenes Zeitalter\grqq{}
 \end{itemize}
 
-\section{Warum sind Modelle so wichtig?}
+\subsection{Gestaltung}
 \begin{itemize}
-	\item Chemie arbeitet mit sehr kleinen Dingen $\rightarrow$ Ohne Modelle nicht handhabbar
-	\item Naturwissenschaften können nichts beweisen $\rightarrow$ Alles nur Modelle
+	\item 
 \end{itemize}
-
 
 \end{center}
 \end{document}
