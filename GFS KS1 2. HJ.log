@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.20)  10 JUN 2018 19:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.20)  10 JUN 2018 19:42
 entering extended mode
 **"./GFS KS1 2. HJ.tex"
 ("GFS KS1 2. HJ.tex"
@@ -1806,16 +1806,16 @@ Package pdftex.def Info: images/mausoleum_oben.png used on input line 121.
 
 ] [27
 
-] [28
-
-] <images/ap_totale.png, id=961, 803.0pt x 579.16376pt>
+] <images/ap_totale.png, id=930, 803.0pt x 579.16376pt>
 File: images/ap_totale.png Graphic file (type png)
  <use images/ap_totale.png>
-Package pdftex.def Info: images/ap_totale.png used on input line 254.
+Package pdftex.def Info: images/ap_totale.png used on input line 253.
 (pdftex.def)             Requested size: 190.17535pt x 137.16948pt.
- [29
+ [28
 
- <./images/ap_totale.png>] [30
+ <./images/ap_totale.png>] [29
+
+] [30
 
 ] [31
 
@@ -1825,176 +1825,176 @@ Package pdftex.def Info: images/ap_totale.png used on input line 254.
 
 ] [34
 
-] [35
-
-] <images/museum.png, id=1174, 618.31pt x 824.07875pt>
+] <images/museum.png, id=1144, 618.31pt x 824.07875pt>
 File: images/museum.png Graphic file (type png)
 
 <use images/museum.png>
-Package pdftex.def Info: images/museum.png used on input line 292.
+Package pdftex.def Info: images/museum.png used on input line 291.
 (pdftex.def)             Requested size: 102.91302pt x 137.16948pt.
- <images/res_gestae.png, id=1176, 618.31pt x 825.0825pt>
+ <images/res_gestae.png, id=1146, 618.31pt x 825.0825pt>
 File: images/res_gestae.png Graphic file (type png)
  <use images/res_gestae.png>
-Package pdftex.def Info: images/res_gestae.png used on input line 292.
+Package pdftex.def Info: images/res_gestae.png used on input line 291.
 (pdftex.def)             Requested size: 102.79037pt x 137.16948pt.
- [36
+ [35
 
- <./images/museum.png> <./images/res_gestae.png>] [37
+ <./images/museum.png> <./images/res_gestae.png>] [36
 
-] [38
+] [37
 
-] <images/innen_wand.png, id=1273, 803.0pt x 656.4525pt>
+] <images/innen_wand.png, id=1242, 803.0pt x 656.4525pt>
 File: images/innen_wand.png Graphic file (type png)
 
 <use images/innen_wand.png>
-Package pdftex.def Info: images/innen_wand.png used on input line 311.
+Package pdftex.def Info: images/innen_wand.png used on input line 310.
 (pdftex.def)             Requested size: 167.78954pt x 137.16948pt.
- [39
+ [38
 
- <./images/innen_wand.png>] <images/unten.png, id=1305, 803.0pt x 602.25pt>
+ <./images/innen_wand.png>] <images/unten.png, id=1274, 803.0pt x 602.25pt>
 File: images/unten.png Graphic file (type png)
 
 <use images/unten.png>
-Package pdftex.def Info: images/unten.png used on input line 315.
+Package pdftex.def Info: images/unten.png used on input line 314.
 (pdftex.def)             Requested size: 182.88495pt x 137.16948pt.
- [40
+ [39
 
- <./images/unten.png>] <images/arapacis_plan.png, id=1337, 546.04pt x 369.38pt>
+ <./images/unten.png>] <images/arapacis_plan.png, id=1306, 546.04pt x 369.38pt>
 File: images/arapacis_plan.png Graphic file (type png)
 
 <use images/arapacis_plan.png>
-Package pdftex.def Info: images/arapacis_plan.png used on input line 319.
+Package pdftex.def Info: images/arapacis_plan.png used on input line 318.
 (pdftex.def)             Requested size: 202.77318pt x 137.16948pt.
- [41
+ [40
 
  <./images/arapacis_plan.png>]
-<images/arapacis_plan_1.png, id=1370, 546.04pt x 369.38pt>
+<images/arapacis_plan_1.png, id=1339, 546.04pt x 369.38pt>
 File: images/arapacis_plan_1.png Graphic file (type png)
  <use images/arapacis_plan_1.png>
-Package pdftex.def Info: images/arapacis_plan_1.png used on input line 332.
+Package pdftex.def Info: images/arapacis_plan_1.png used on input line 331.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/west_nord.png, id=1371, 301.125pt x 236.38312pt>
+<images/west_nord.png, id=1340, 301.125pt x 236.38312pt>
 File: images/west_nord.png Graphic file (type png)
  <use images/west_nord.png>
-Package pdftex.def Info: images/west_nord.png used on input line 332.
+Package pdftex.def Info: images/west_nord.png used on input line 331.
 (pdftex.def)             Requested size: 174.73991pt x 137.16948pt.
- [42
+ [41
 
- <./images/arapacis_plan_1.png> <./images/west_nord.png>] <images/arapacis_plan_2.png, id=1406, 546.04pt x 369.38pt>
+ <./images/arapacis_plan_1.png> <./images/west_nord.png>] <images/arapacis_plan_2.png, id=1375, 546.04pt x 369.38pt>
 File: images/arapacis_plan_2.png Graphic file (type png)
  <use images/arapacis_plan_2.png>
-Package pdftex.def Info: images/arapacis_plan_2.png used on input line 346.
+Package pdftex.def Info: images/arapacis_plan_2.png used on input line 345.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/west_sued.png, id=1407, 803.0pt x 589.20125pt>
+<images/west_sued.png, id=1376, 803.0pt x 589.20125pt>
 File: images/west_sued.png Graphic file (type png)
  <use images/west_sued.png>
-Package pdftex.def Info: images/west_sued.png used on input line 346.
+Package pdftex.def Info: images/west_sued.png used on input line 345.
 (pdftex.def)             Requested size: 186.94063pt x 137.16948pt.
- [43
+ [42
 
- <./images/arapacis_plan_2.png> <./images/west_sued.png>] <images/arapacis_plan_3.png, id=1442, 546.04pt x 369.38pt>
+ <./images/arapacis_plan_2.png> <./images/west_sued.png>] <images/arapacis_plan_3.png, id=1410, 546.04pt x 369.38pt>
 File: images/arapacis_plan_3.png Graphic file (type png)
  <use images/arapacis_plan_3.png>
-Package pdftex.def Info: images/arapacis_plan_3.png used on input line 359.
+Package pdftex.def Info: images/arapacis_plan_3.png used on input line 358.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/ost_nord.png, id=1443, 85.5195pt x 118.7637pt>
+<images/ost_nord.png, id=1411, 85.5195pt x 118.7637pt>
 File: images/ost_nord.png Graphic file (type png)
  <use images/ost_nord.png>
-Package pdftex.def Info: images/ost_nord.png used on input line 359.
+Package pdftex.def Info: images/ost_nord.png used on input line 358.
 (pdftex.def)             Requested size: 98.78378pt x 137.16948pt.
- [44
+ [43
 
- <./images/arapacis_plan_3.png> <./images/ost_nord.png>] <images/arapacis_plan_4.png, id=1477, 546.04pt x 369.38pt>
+ <./images/arapacis_plan_3.png> <./images/ost_nord.png>] <images/arapacis_plan_4.png, id=1446, 546.04pt x 369.38pt>
 File: images/arapacis_plan_4.png Graphic file (type png)
  <use images/arapacis_plan_4.png>
-Package pdftex.def Info: images/arapacis_plan_4.png used on input line 372.
+Package pdftex.def Info: images/arapacis_plan_4.png used on input line 371.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/ost_sued.png, id=1478, 803.0pt x 585.18625pt>
+<images/ost_sued.png, id=1447, 803.0pt x 585.18625pt>
 File: images/ost_sued.png Graphic file (type png)
  <use images/ost_sued.png>
-Package pdftex.def Info: images/ost_sued.png used on input line 372.
+Package pdftex.def Info: images/ost_sued.png used on input line 371.
 (pdftex.def)             Requested size: 188.22716pt x 137.16948pt.
- [45
+ [44
 
- <./images/arapacis_plan_4.png> <./images/ost_sued.png>] <images/arapacis_plan_5.png, id=1512, 546.04pt x 369.38pt>
+ <./images/arapacis_plan_4.png> <./images/ost_sued.png>] <images/arapacis_plan_5.png, id=1481, 546.04pt x 369.38pt>
 File: images/arapacis_plan_5.png Graphic file (type png)
  <use images/arapacis_plan_5.png>
-Package pdftex.def Info: images/arapacis_plan_5.png used on input line 385.
+Package pdftex.def Info: images/arapacis_plan_5.png used on input line 384.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/sued_alles.png, id=1513, 803.0pt x 631.35875pt>
+<images/sued_alles.png, id=1482, 803.0pt x 631.35875pt>
 File: images/sued_alles.png Graphic file (type png)
  <use images/sued_alles.png>
-Package pdftex.def Info: images/sued_alles.png used on input line 385.
+Package pdftex.def Info: images/sued_alles.png used on input line 384.
 (pdftex.def)             Requested size: 174.45505pt x 137.16948pt.
- [46
+ [45
 
  <./images/arapacis_plan_5.png> <./images/sued_alles.png>]
 File: images/arapacis_plan_5.png Graphic file (type png)
  <use images/arapacis_plan_5.png>
-Package pdftex.def Info: images/arapacis_plan_5.png used on input line 398.
+Package pdftex.def Info: images/arapacis_plan_5.png used on input line 397.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
- <images/sued_augustus.png, id=1547, 803.0pt x 556.0775pt>
+ <images/sued_augustus.png, id=1516, 803.0pt x 556.0775pt>
 File: images/sued_augustus.png Graphic file (type png)
 
 <use images/sued_augustus.png>
-Package pdftex.def Info: images/sued_augustus.png used on input line 398.
+Package pdftex.def Info: images/sued_augustus.png used on input line 397.
 (pdftex.def)             Requested size: 198.0784pt x 137.16948pt.
- [47
+ [46
 
  <./images/sued_augustus.png>]
 File: images/arapacis_plan_5.png Graphic file (type png)
  <use images/arapacis_plan_5.png>
-Package pdftex.def Info: images/arapacis_plan_5.png used on input line 411.
+Package pdftex.def Info: images/arapacis_plan_5.png used on input line 410.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/sued_agrippa.png, id=1580, 803.0pt x 556.0775pt>
+<images/sued_agrippa.png, id=1549, 803.0pt x 556.0775pt>
 File: images/sued_agrippa.png Graphic file (type png)
  <use images/sued_agrippa.png>
-Package pdftex.def Info: images/sued_agrippa.png used on input line 411.
+Package pdftex.def Info: images/sued_agrippa.png used on input line 410.
 (pdftex.def)             Requested size: 198.0784pt x 137.16948pt.
- [48
+ [47
 
  <./images/sued_agrippa.png>]
-<images/arapacis_plan_6.png, id=1613, 546.04pt x 369.38pt>
+<images/arapacis_plan_6.png, id=1582, 546.04pt x 369.38pt>
 File: images/arapacis_plan_6.png Graphic file (type png)
  <use images/arapacis_plan_6.png>
-Package pdftex.def Info: images/arapacis_plan_6.png used on input line 424.
+Package pdftex.def Info: images/arapacis_plan_6.png used on input line 423.
 (pdftex.def)             Requested size: 92.1879pt x 62.35977pt.
 
-<images/nord.png, id=1614, 803.0pt x 593.21625pt>
+<images/nord.png, id=1583, 803.0pt x 593.21625pt>
 File: images/nord.png Graphic file (type png)
  <use images/nord.png>
-Package pdftex.def Info: images/nord.png used on input line 424.
+Package pdftex.def Info: images/nord.png used on input line 423.
 (pdftex.def)             Requested size: 185.67859pt x 137.16948pt.
- [49
+ [48
 
  <./images/arapacis_plan_6.png> <./images/nord.png>]
 File: images/west_sued.png Graphic file (type png)
  <use images/west_sued.png>
-Package pdftex.def Info: images/west_sued.png used on input line 439.
+Package pdftex.def Info: images/west_sued.png used on input line 438.
 (pdftex.def)             Requested size: 153.64493pt x 112.73157pt.
 File: images/sued_augustus.png Graphic file (type png)
  <use images/sued_augustus.png>
-Package pdftex.def Info: images/sued_augustus.png used on input line 439.
+Package pdftex.def Info: images/sued_augustus.png used on input line 438.
 (pdftex.def)             Requested size: 153.64493pt x 106.39401pt.
- [50
+ [49
 
 ]
-<images/horologium.png, id=1679, 475.7775pt x 642.4pt>
+<images/horologium.png, id=1648, 475.7775pt x 642.4pt>
 File: images/horologium.png Graphic file (type png)
  <use images/horologium.png>
-Package pdftex.def Info: images/horologium.png used on input line 445.
+Package pdftex.def Info: images/horologium.png used on input line 444.
 (pdftex.def)             Requested size: 101.58597pt x 137.16948pt.
- [51
+ [50
 
  <./images/horologium.png>]
-[52
+[51
+
+] [52
 
 ] [53
 
@@ -2018,14 +2018,12 @@ Package pdftex.def Info: images/horologium.png used on input line 445.
 
 ] [63
 
-] [64
-
 ]
-Overfull \hbox (16.04195pt too wide) in paragraph at lines 542--542
+Overfull \hbox (16.04195pt too wide) in paragraph at lines 541--541
 \OT1/cmtt/m/n/10.95 kaiser-[]august-[]meister-[]der-[]politischen-[]kommunikation . 
  []
 
-[65
+[64
 
 ]
 \tf@nav=\write6
@@ -2037,31 +2035,42 @@ Overfull \hbox (16.04195pt too wide) in paragraph at lines 542--542
 \tf@snm=\write8
 \openout8 = `"GFS KS1 2. HJ.snm"'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 544.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 544.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 543.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 543.
  ("GFS KS1 2. HJ.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 544.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 544.
-Package rerunfilecheck Info: File `"GFS KS1 2. HJ".out' has not changed.
-(rerunfilecheck)             Checksum: 5C2296899C156F6925F08703DE63A261;364.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 543.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 543.
+
+
+Package rerunfilecheck Warning: File `"GFS KS1 2. HJ".out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `"GFS KS1 2. HJ".out':
+(rerunfilecheck)             Before: 5C2296899C156F6925F08703DE63A261;364
+(rerunfilecheck)             After:  AD66CC2854473D9D99BB2C6F32D0E6AB;364.
  ) 
 Here is how much of TeX's memory you used:
  31865 strings out of 493323
- 648075 string characters out of 3139065
+ 648083 string characters out of 3139065
  686079 words of memory out of 3000000
  34691 multiletter control sequences out of 15000+200000
  539684 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,20n,59p,10385b,1000s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><
-C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/
-fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on "GFS KS1 2. HJ.pdf" (65 pages, 13427768 bytes).
+pdfTeX warning (dest): name{Navigation65} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Outline0.1.2.12} has been referenced but does not exist, replaced by a fixed one
+
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmss12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb><C:
+/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on "GFS KS1 2. HJ.pdf" (64 pages, 13420731 bytes).
 PDF statistics:
- 2207 PDF objects out of 2487 (max. 8388607)
+ 2177 PDF objects out of 2487 (max. 8388607)
  137 named destinations out of 1000 (max. 500000)
  206 words of extra memory for PDF output out of 10000 (max. 10000000)
 
